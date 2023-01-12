@@ -1,7 +1,8 @@
 # machine-learning-basics
 
-This is repository with my projects during learning basics of ML. Course created by Rune - I highly recommend it:
+This is repository with my projects and kaggle's challenges, during learning basics of data science.
 
 
-+ https://www.learnpythonwithrune.org/machine-learning/
-+ https://github.com/LearnPythonWithRune/MachineLearningWithPython
+I use materials created by Rune - I highly recommend it:
++ https://www.learnpythonwithrune.org/
++ https://github.com/LearnPythonWithRune/
